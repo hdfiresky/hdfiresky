@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hdfiresky&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hdfiresky)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hdfiresky)
